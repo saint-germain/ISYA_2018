@@ -4,4 +4,3 @@ jupyter
 notebook
 scikit-learn
 astroML
-astroML_addons
