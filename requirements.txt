@@ -1,0 +1,7 @@
+jupyter
+notebook
+matplotlib
+astroML
+astroML_addons
+scikit-learn
+numpy
