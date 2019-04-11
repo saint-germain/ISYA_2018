@@ -1,7 +1,7 @@
+numpy
+matplotlib
 jupyter
 notebook
-matplotlib
+scikit-learn
 astroML
 astroML_addons
-scikit-learn
-numpy
